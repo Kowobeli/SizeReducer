@@ -1,7 +1,9 @@
 # SizeReducer
 SizeReducer é um projeto que desenvolvi utilizando IA e meu conhecimento em programação a fim de otimizar o armazenamento dos meus clipes de jogos.
 Este código permite reduzir o tamanho dos vídeos em uma pasta específica (incluindo suas subpastas), ajudando a liberar espaço no seu armazenamento,
-podendo diminuir o espaço em até 20x ou mais!
+podendo diminuir o espaço em até 10x ou mais!
+
+Em meus testes consegui diminuir uma pasta de 377GB para apenas 32GB!
 
 Os vídeos processados são organizados em uma nova pasta, que recebe o nome da pasta original, facilitando a gestão dos arquivos.
 
