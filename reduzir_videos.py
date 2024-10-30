@@ -103,9 +103,6 @@ if __name__ == "__main__":
     novo_bitrate = input("Digite o bitrate do vídeo (por exemplo, 10000k): ")
 
     # Pergunta ao usuário pelo FPS do vídeo
-    fps = input("Digite os FPS do vídeo (ex: 60). Lembre-se de que se o vídeo original tiver menos FPS, ele não será aumentado: ")
-    
-    # Informa o usuário sobre a limitação de FPS
-    print("Atenção: se o vídeo original tiver uma taxa de FPS menor, o FPS não será aumentado durante a conversão, isso não causará nenhum problema e o processo será seguido normalmente. O vídeo só mostrará ter uma taxa de quadros maior em suas propriedades.")
+    fps = input("Digite os FPS do vídeo (ex: 60). Atenção! Se o vídeo original tiver uma taxa de FPS menor, e o valor inserido for maior, o FPS não será aumentado durante a conversão, isso não causará nenhum problema e o processo será seguido normalmente. O vídeo só mostrará ter uma taxa de quadros maior em suas propriedades: ")
 
     reduzir_videos(pasta, nova_resolucao, novo_bitrate, fps, codec=codec, excluir=excluir_videos)
