@@ -19,7 +19,7 @@ Os vídeos processados são organizados em uma nova pasta, que recebe o nome da 
 
 
 ## Observações importantes:
-Para utilizar o SizeReducer, você precisa instalar o FFmpeg. Acesse o site oficial [aqui]([www.ffmpeg.org/download.html](https://www.gyan.dev/ffmpeg/builds/)) e faça o download da versão FULL. 
+Para utilizar o SizeReducer, você precisa instalar o FFmpeg. Acesse o site oficial "https://www.gyan.dev/ffmpeg/builds/" e faça o download da versão FULL. 
 Extraia o conteúdo em seu sistema e coloque na unidade "C:".
 Se o seu drive tiver um nome diferente ou se preferir colocar a pasta em outro diretório, modifique a string na linha 6 do código para o caminho correto do arquivo "ffmpeg.exe".
 Para fazer isso, navegue até a pasta extraída, entre na pasta "bin", clique com o botão direito em "ffmpeg.exe" e selecione "Copy as path".
