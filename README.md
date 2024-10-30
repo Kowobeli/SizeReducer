@@ -16,7 +16,7 @@ Os vídeos processados são organizados em uma nova pasta, que recebe o nome da 
 
 
 
-## Observações:
+## Observações importantes:
 Para utilizar o SizeReducer, você precisa instalar o FFmpeg. Acesse o site oficial [aqui](www.ffmpeg.org/download.html) e faça o download da versão FULL. 
 Extraia o conteúdo em seu sistema e coloque na unidade "C:".
 Se o seu drive tiver um nome diferente ou se preferir colocar a pasta em outro diretório, modifique a string na linha 6 do código para o caminho correto do arquivo "ffmpeg.exe".
@@ -30,6 +30,6 @@ Depois: C:\\ffmpeg\\bin\\ffmpeg.exe
 Comece com uma pasta contendo dois ou três pequenos vídeos para testar, especialmente se você optar por excluir automaticamente os vídeos já processados.
 Isso permite ajustar as configurações de bitrate e resolução conforme suas preferências, além de minimizar o risco de perder arquivos em caso de erros.
 
-Para executar o projeto, basta fazer o download e clicar no arquivo baixado.
+Para executar o projeto, basta fazer o download do arquivo, abrir o terminal, ir até o local do arquivo e executar o comando "python reduzir_videos.py".
 
 Se houver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo pelo e-mail pablosfranco201812@gmail.com. Ficarei feliz em ajudá-lo!
