@@ -7,6 +7,11 @@ Em meus testes consegui diminuir uma pasta de 377GB para apenas 32GB!
 
 Os vídeos processados são organizados em uma nova pasta, que recebe o nome da pasta original, facilitando a gestão dos arquivos.
 
+Antes:
+![Screenshot 2024-10-30 174227](https://github.com/user-attachments/assets/18f4ee41-316f-4c8a-8ec9-f3634a1a4837)
+
+Depois:
+![Screenshot 2024-10-30 193147](https://github.com/user-attachments/assets/d8633afa-8928-4a56-9dd2-7e9e284b4492)
 
 
 ## Funcionalidades:
