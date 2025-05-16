@@ -39,4 +39,6 @@ Isso permite ajustar as configurações de bitrate e resolução conforme suas p
 
 Para executar o projeto, basta fazer o download do arquivo, abrir o terminal, ir até o local do arquivo e executar o comando "python reduzir_videos.py".
 
+(python deve estar instalado em seu computador)
+
 Se houver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo pelo e-mail pablosfranco201812@gmail.com. Ficarei feliz em ajudá-lo!
